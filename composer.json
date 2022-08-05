@@ -1,0 +1,12 @@
+{
+    "name": "phpsandbox/interactive",
+    "description": "Standard scaffold for Interactive notebooks on PHPSandbox",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "psy/psysh": "^0.11.2",
+        "firebase/php-jwt": "^6.3"
+    }
+}
